@@ -16,8 +16,3 @@
 ## Current State of the React App ( NO CSS )
 
 To be added tsoon
-
-## Concepts covered
-
-- Local storage so refreshing page keeps items on screen
-- will return to update list (worth re/watching just for the new stuff)
